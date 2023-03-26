@@ -8,3 +8,4 @@ else:
     print(f"{path} -None")
 
 # простое изменение
+#
