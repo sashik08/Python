@@ -6,3 +6,5 @@ elif os.path.isdir(path):
     print(f"{path} - Dir")
 else:
     print(f"{path} -None")
+
+# простое изменение
